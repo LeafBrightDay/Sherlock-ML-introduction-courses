@@ -1,2 +1,2 @@
 # Sherlock-ML-introduction-courses
-collection of Sherlock ML courses
+very elementary courese for ML beginers!
